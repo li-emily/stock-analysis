@@ -10,7 +10,7 @@ As you can see in the two pictures below, the remastered script AllStocksAnalysi
 ![Remastered Script - 2017 stock analysis](https://github.com/li-emily/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![Remastered Script - 2018 stock analysis](https://github.com/li-emily/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-While not pictured, the original script AllStocksAnalysis finished analyzing 2017's stocks in 1.063 seconds, and 2018's stocks in 0.95 seconds. This also does not include visual formatting with colors to indicate if the return was positive or negative, which was put into a separate script after called formatAllStocksAnalysisTable.
+While not pictured, the original script AllStocksAnalysis finished analyzing 2017's stocks in 1.063 seconds, and 2018's stocks in 0.95 seconds. As you can see, the entire process was made faster by around 0.8 seconds for both.This also does not include visual formatting with colors to indicate if the return was positive or negative, which was put into a separate script after called formatAllStocksAnalysisTable. 
 
 ## Summary
 - What are the advantages or disadvantages of refactoring code?
